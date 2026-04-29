@@ -1,0 +1,83 @@
+﻿<Project Sdk="Godot.NET.Sdk/4.5.1">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <TargetFramework Condition=" '$(GodotTargetPlatform)' == 'android' ">net9.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RootNamespace>Fiftine</RootNamespace>
+    <AssemblyName>Fiftine</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="0.1.6" />
+	<AdditionalFiles Include="Fiftine/localization/**/*.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="FiftineCode\Cards\Basic\FlashDash.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="FiftineCode\Cards\Ancient\FireSuppress.cs" />
+    <Content Remove="FiftineCode\Cards\Ancient\KnockUp.cs" />
+    <Content Remove="FiftineCode\Cards\Basic\AbruptAttack.cs" />
+    <Content Remove="FiftineCode\Cards\Basic\BattleState.cs" />
+    <Content Remove="FiftineCode\Cards\Basic\FiftineBulletTime.cs" />
+    <Content Remove="FiftineCode\Cards\Basic\TakeCare.cs" />
+    <Content Remove="FiftineCode\Cards\Common\BloodExtract.cs" />
+    <Content Remove="FiftineCode\Cards\Common\VigorStrike.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\BlockBack.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\ChronosExtracter.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\Conspire.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\StandOff.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\StressResponse.cs" />
+    <Content Remove="FiftineCode\Cards\Token\Bottle.cs" />
+    <Content Remove="FiftineCode\Cards\Common\BrokenDoor.cs" />
+    <Content Remove="FiftineCode\Cards\Common\FlashDash.cs" />
+    <Content Remove="FiftineCode\Cards\Common\WalkOnWall.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\DoubleDamage.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\PeriodOfTreatment.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\Roll.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\Concentrate.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\DisorderPierce.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\DrugDependence.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\Flash.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\FullOfVigor.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\Momentum.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\ShoulderCut.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\Thinking.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\ThrowBottle.cs" />
+    <Content Remove="FiftineCode\Characters\FiftinePotionPool.cs" />
+    <Content Remove="FiftineCode\DynamicVars\TimeHaltVar.cs" />
+    <Content Remove="FiftineCode\Patch\BlockBackNodePatch.cs" />
+    <Content Remove="FiftineCode\Patch\ChronosNodePatch.cs" />
+    <Content Remove="FiftineCode\Patch\DrugDependenceNodePatch.cs" />
+    <Content Remove="FiftineCode\Patch\FullOfVigorNodePatch.cs" />
+    <Content Remove="FiftineCode\Patch\MomentumNodePatch.cs" />
+    <Content Remove="FiftineCode\Patch\TreatmentNodePatch.cs" />
+    <Content Remove="FiftineCode\Potions\FiftinePotion.cs" />
+    <Content Remove="FiftineCode\Potions\VigorPotion.cs" />
+    <Content Remove="FiftineCode\Powers\BlockBackPower.cs" />
+    <Content Remove="FiftineCode\Powers\ChronosPower.cs" />
+    <Content Remove="FiftineCode\Powers\DrugDependencePower.cs" />
+    <Content Remove="FiftineCode\Powers\FullOfVigorPower.cs" />
+    <Content Remove="FiftineCode\Powers\MomentumPower.cs" />
+    <Content Remove="FiftineCode\Powers\TreatmentPower.cs" />
+    <Content Remove="FiftineCode\Relics\ShortKnife.cs" />
+    <Content Remove="fiftine\localization\zhs\potions.json" />
+    <Content Remove="fiftine\localization\zhs\static_hover_tips.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>E:\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="BaseLib">
+      <HintPath>..\..\..\API_and_Library\STS2Mod-BaseLib\BaseLib.3.0.6\BaseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="GodotSharp">
+      <HintPath>E:\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\GodotSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="sts2">
+      <HintPath>E:\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\sts2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

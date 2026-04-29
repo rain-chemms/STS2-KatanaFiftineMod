@@ -1,0 +1,65 @@
+using BaseLib.Abstracts;
+using BaseLib.Extensions;
+using BaseLib.Utils;
+using Godot;
+using KatanaZeroMod.Fiftine;
+using KatanaZeroMod.Fiftine.DynamicVars;
+using KatanaZeroMod.Fiftine.Powers;
+using MegaCrit.Sts2.Core.Commands;
+using MegaCrit.Sts2.Core.Entities.Cards;
+using MegaCrit.Sts2.Core.Entities.Creatures;
+using MegaCrit.Sts2.Core.Entities.Players;
+using MegaCrit.Sts2.Core.GameActions.Multiplayer;
+using MegaCrit.Sts2.Core.HoverTips;
+using MegaCrit.Sts2.Core.Localization.DynamicVars;
+using MegaCrit.Sts2.Core.Models;
+using MegaCrit.Sts2.Core.Models.Powers;
+using MegaCrit.Sts2.Core.Nodes.Combat;
+using MegaCrit.Sts2.Core.ValueProps;
+using MegaCrit.Sts2.GameInfo.Objects;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+namespace KatanaZeroMod.Fiftine.Cards;
+
+public class AbruptAttack() : FiftineCard(1,
+    CardType.Attack, CardRarity.Basic,
+    TargetType.AnyEnemy),ITranscendenceCard
+{
+    protected override HashSet<CardTag> CanonicalTags => [CardTag.None];
+    protected override IEnumerable<DynamicVar> CanonicalVars => [
+        new DamageVar(7, ValueProp.Move),
+        new PowerVar<VulnerablePower>(2),
+        new TimeHaltVar(2)
+    ];
+
+    protected override IEnumerable<IHoverTip> ExtraHoverTips => [
+        HoverTipFactory.FromPower<ChronosPower>(),
+        HoverTipFactory.FromPower<VulnerablePower>()
+    ];
+
+    protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
+    {
+        if (DynamicVars.TryGetValue("FIFTINE-TIMEHALT", out DynamicVar fth))
+        {
+            int timeHaltNeedChronos = fth.IntValue;//时间效果发动所需要的柯罗诺斯层数
+            if (Owner.HasPower<ChronosPower>()) 
+            {
+                int nowChronos = Owner.Creature.GetPowerAmount<ChronosPower>();
+                if(nowChronos >= timeHaltNeedChronos) 
+                {
+                    await CommonActions.Apply<VulnerablePower>(cardPlay.Target, this);//给予敌人易伤
+                    Owner.Creature.GetPower<ChronosPower>().SetAmount(nowChronos - timeHaltNeedChronos);//扣除相应的柯罗诺斯层数
+                }
+            }
+        }
+        await CommonActions.CardAttack(this, cardPlay.Target).Execute(choiceContext);
+    }
+
+    protected override void OnUpgrade()
+    {
+        DynamicVars.Damage.UpgradeValueBy(2m);
+        DynamicVars.Power<VulnerablePower>().UpgradeValueBy(1m);
+    }
+    //欧巴洛斯:古老牙齿升级
+    public CardModel GetTranscendenceTransformedCard() => ModelDb.Card<KnockUp>();
+}

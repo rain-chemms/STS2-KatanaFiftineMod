@@ -1,0 +1,36 @@
+﻿<Project Sdk="Godot.NET.Sdk/4.6.2">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <TargetFramework Condition=" '$(GodotTargetPlatform)' == 'android' ">net9.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RootNamespace>KatanaZeroMod</RootNamespace>
+    <AssemblyName>KatanaFiftine</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="KatanaFiftine\**" />
+	 <Content Include="KatanaFiftineCode\**" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <CodeAnalysisDictionary Include="KatanaFiftine\localization\zhs\relics.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="0.1.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>E:\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="BaseLib">
+      <HintPath>..\..\..\API_and_Library\STS2Mod-BaseLib\BaseLib.3.0.6\BaseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="GodotSharp">
+      <HintPath>E:\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\GodotSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="sts2">
+      <HintPath>E:\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\sts2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

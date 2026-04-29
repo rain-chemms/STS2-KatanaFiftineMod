@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://7i87wj5ysule"]
+
+[ext_resource type="Texture2D" uid="uid://byrd67t4q7vc1" path="res://Fiftine/Images/Powers/full_of_vigor_power.png" id="1_urych"]
+
+[node name="FullOfVigorNode" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="FullOfVigorPower" type="Sprite2D" parent="."]
+texture = ExtResource("1_urych")
+
+[node name="FullOfVigorValue" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0

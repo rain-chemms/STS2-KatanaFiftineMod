@@ -1,0 +1,26 @@
+{
+  "KATANAZEROMOD-CHRONOS_POWER.description": "消耗[blue]{Amount}[/blue]层[gold]柯罗诺斯[/gold]触发[blue]时停[/blue]效果\n当层数[gold]大于0[/gold]时,每回合恢复[green]1[/green]点生命值\n当层数[gold]小于0[/gold]时,每回合失去[red]相应层数的[/red]点血量\n每回合开始时减少[red]1[/red]层[blue]柯诺罗斯[/blue]\n[gold]非\"空无\"士兵[/gold]在[red]未获得过[/red][blue]柯诺罗斯[/blue]前不会随回合减少层数",
+  "KATANAZEROMOD-CHRONOS_POWER.smartDescription": "消耗[blue]{Amount}[/blue]层[gold]柯罗诺斯[/gold]触发[blue]时停[/blue]效果\n当层数[gold]大于0[/gold]时,每回合恢复[green]1[/green]点生命值\n当层数[gold]小于0[/gold]时,每回合失去{Amount}点血量\n每回合开始时减少[red]1[/red]层[blue]柯诺罗斯[/blue]\n[gold]非\"空无\"士兵[/gold]在[red]未获得过[/red][blue]柯诺罗斯[/blue]前不会随回合减少层数",
+  "KATANAZEROMOD-CHRONOS_POWER.title": "柯罗诺斯",
+
+  "KATANAZEROMOD-TREATMENT_POWER.description": "在每回合开始时给予你[gold]1[/gold]层[gold]柯罗诺斯[/gold]",
+  "KATANAZEROMOD-TREATMENT_POWER.smartDescription": "在每回合开始时给予你[gold]{Amount}[/gold]层[gold]柯罗诺斯[/gold]",
+  "KATANAZEROMOD-TREATMENT_POWER.title": "治愈性药物",
+
+  "KATANAZEROMOD-FULL_OF_VIGOR_POWER.description": "在每回合开始时给予你[gold]1[/gold]层[gold]活力[/gold]",
+  "KATANAZEROMOD-FULL_OF_VIGOR_POWER.smartDescription": "在每回合开始时给予你[gold]{Amount}[/gold]层[gold]活力[/gold]",
+  "KATANAZEROMOD-FULL_OF_VIGOR_POWER.title": "活力满满",
+
+  "KATANAZEROMOD-DRUG_DEPENDENCE_POWER.description": "在每回合开始时获得你目前身上[gold]柯罗诺斯层数[/gold]的[gold]活力[/gold]",
+  "KATANAZEROMOD-DRUG_DEPENDENCE_POWER.smartDescription": "在每回合开始时获得你目前身上[gold]柯罗诺斯层数[/gold]的[gold]活力[/gold]",
+  "KATANAZEROMOD-DRUG_DEPENDENCE_POWER.title": "药物依赖",
+
+  "KATANAZEROMOD-MOMENTUM_POWER.description": "每打出[gold]1[/gold]张牌获得1层[gold]活力[/gold]",
+  "KATANAZEROMOD-MOMENTUM_POWER.smartDescription": "每打出[gold]1[/gold]张牌获得[gold]{Amount}[/gold]层[gold]活力[/gold]",
+  "KATANAZEROMOD-MOMENTUM_POWER.title": "动量",
+
+  "KATANAZEROMOD-BLOCK_BACK_POWER.description": "[gold]阻止[/gold]你下次收到的伤害\n当前状态层数减少时获得1点[gold]敏捷[/gold]",
+  "KATANAZEROMOD-BLOCK_BACK_POWER.smartDescription": "[gold]返还[/gold]\n当前状态层数减少时获得1点[gold]敏捷[/gold]",
+  "KATANAZEROMOD-BLOCK_BACK_POWER.title": "弹反"
+
+}

@@ -1,0 +1,46 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxopr08mp41sk"]
+
+[ext_resource type="Texture2D" uid="uid://c0y7j0x0vomoy" path="res://Fiftine/Images/Powers/chronos_power.png" id="1_vwfs1"]
+
+[node name="ChronosNode" type="Control"]
+visible = false
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.040000003
+anchor_top = -0.040000003
+anchor_right = 0.061000004
+anchor_bottom = 0.002
+offset_left = -0.08000183
+offset_top = -0.07999802
+offset_right = -0.27200317
+offset_bottom = -0.296
+text = "X"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ChronosPower" type="Sprite2D" parent="."]
+position = Vector2(-1, -32)
+scale = Vector2(0.335, 0.335)
+texture = ExtResource("1_vwfs1")
+
+[node name="ChronosValue" type="RichTextLabel" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.057000004
+anchor_top = -0.037
+anchor_right = 0.091000006
+anchor_bottom = -0.002
+offset_left = 0.33599854
+offset_top = -0.024000168
+offset_right = 0.16799164
+offset_bottom = 0.296
+text = "0"
+scroll_active = false

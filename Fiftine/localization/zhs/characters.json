@@ -1,0 +1,16 @@
+{
+  "KATANAZEROMOD-FIFTINE.title": "十五号",
+  "KATANAZEROMOD-FIFTINE.titleObject": "十五号",
+  "KATANAZEROMOD-FIFTINE.description": "秘密军事计划空无的幸存者,擅长时停,弹反和顺移的近战武士",
+  "KATANAZEROMOD-FIFTINE.pronounObject": "他",
+  "KATANAZEROMOD-FIFTINE.possessiveAdjective": "他的",
+  "KATANAZEROMOD-FIFTINE.pronounPossessive": "他的",
+  "KATANAZEROMOD-FIFTINE.pronounSubject": "他",
+  "KATANAZEROMOD-FIFTINE.cardsModifierTitle": "Fiftine Cards",
+  "KATANAZEROMOD-FIFTINE.cardsModifierDescription": "Fiftine的卡牌将出现在商店与奖励中",
+  "KATANAZEROMOD-FIFTINE.aromaPrinciple": "[sine][pink]曼波[/pink][/sine]",
+  "KATANAZEROMOD-FIFTINE.eventDeathPrevention": "不对...这样不行...",
+  "KATANAZEROMOD-FIFTINE.banter.alive.endTurnPing": "药剂量有限...我们需要马上行动...",
+  "KATANAZEROMOD-FIFTINE.banter.dead.endTurnPing": "我还需要些柯罗诺斯...",
+  "KATANAZEROMOD-FIFTINE.goldMonologue": "[sine]柯罗诺斯...[/sine]..."
+}

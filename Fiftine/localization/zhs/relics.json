@@ -1,0 +1,9 @@
+{
+  "KATANAZEROMOD-FIFTINE_KATANA.title": "武士刀",
+  "KATANAZEROMOD-FIFTINE_KATANA.flavor": "[red]空无士兵的标配近战武器[/red]",
+  "KATANAZEROMOD-FIFTINE_KATANA.description": "开局获得[gold]3[/gold]点力量",
+  "KATANAZEROMOD-SHORT_KNIFE.title": "专家短刀",
+  "KATANAZEROMOD-SHORT_KNIFE.flavor": "[red]攻击速度极快的短刀,可以用它实现\"飞行\"[/red]",
+  "KATANAZEROMOD-SHORT_KNIFE.description": "开局获得[gold]3[/gold]点力量和[gold]3[/gold]点敏捷"
+
+}

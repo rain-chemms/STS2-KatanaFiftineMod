@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://kensplyo07ta"]
+
+[ext_resource type="Texture2D" uid="uid://l6p2nsnni3wi" path="res://Fiftine/Images/Powers/momentum_power.png" id="1_jrqd2"]
+
+[node name="MomentumNode" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="MomentumPower" type="Sprite2D" parent="."]
+texture = ExtResource("1_jrqd2")
+
+[node name="MomentumValue" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0

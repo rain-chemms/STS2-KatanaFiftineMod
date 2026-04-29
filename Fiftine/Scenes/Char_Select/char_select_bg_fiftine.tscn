@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://btt0ql1dg6dhr"]
+
+[ext_resource type="Texture2D" uid="uid://b8giuc01n2de5" path="res://Fiftine/Images/Visual/select_bg_fiftine.png" id="1_d8std"]
+
+[node name="char_select_bg_fiftine" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="SceneControl" type="ReferenceRect" parent="."]
+layout_mode = 0
+offset_left = -3.0
+offset_top = 4.0
+offset_right = 2652.0
+offset_bottom = 1591.0
+
+[node name="SelectBgFiftine" type="Sprite2D" parent="SceneControl"]
+position = Vector2(1389, 701.00006)
+scale = Vector2(2.37, 2.37)
+texture = ExtResource("1_d8std")
