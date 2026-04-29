@@ -21,6 +21,9 @@
 
   "KATANAZEROMOD-BLOCK_BACK_POWER.description": "[gold]阻止[/gold]你下次收到的伤害\n当前状态层数减少时获得1点[gold]敏捷[/gold]",
   "KATANAZEROMOD-BLOCK_BACK_POWER.smartDescription": "[gold]返还[/gold]\n当前状态层数减少时获得1点[gold]敏捷[/gold]",
-  "KATANAZEROMOD-BLOCK_BACK_POWER.title": "弹反"
+  "KATANAZEROMOD-BLOCK_BACK_POWER.title": "弹反",
 
+  "KATANAZEROMOD-SHADE_FORM_POWER.description": "每回合结束时给予你[gold]1[/gold]点[gold]敏捷[/gold]",
+  "KATANAZEROMOD-SHADE_FORM_POWER.smartDescription": "每回合结束时给予你[gold]{Amount}[/gold]点[gold]敏捷[/gold]",
+  "KATANAZEROMOD-SHADE_FORM_POWER.title": "残像形态"
 }

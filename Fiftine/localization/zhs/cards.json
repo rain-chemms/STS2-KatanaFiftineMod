@@ -60,5 +60,7 @@
   "KATANAZEROMOD-BLOCK_BACK.title": "弹反",
   "KATANAZEROMOD-BLOCK_BACK.description": "获得{BlockBackPower:diff()}层[gold]弹反[/gold]",
   "KATANAZEROMOD-FIFTINE_BULLET_TIME.title": "子弹时间",
-  "KATANAZEROMOD-FIFTINE_BULLET_TIME.description": "打出后会从弃牌堆回到手牌中\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:将你的所有手牌费用变为[gold]0[/gold]且你在这个回合[red]无法[/red]再抽牌"
+  "KATANAZEROMOD-FIFTINE_BULLET_TIME.description": "打出后会从弃牌堆回到手牌中\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:将你的所有手牌费用变为[gold]0[/gold]且你在这个回合[red]无法[/red]再抽牌",
+  "KATANAZEROMOD-SHADE_FORM.title": "残像形态",
+  "KATANAZEROMOD-SHADE_FORM.description": "每回合获得[gold]{ShadeFormPower:diff()}[/gold]点[gold]敏捷[/gold]\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:每回合额外获得[gold]1[/gold]点[gold]敏捷[/gold]"
 }

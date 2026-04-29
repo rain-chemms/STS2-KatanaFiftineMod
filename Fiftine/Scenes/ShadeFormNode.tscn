@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://cgh6yyx5hal8j"]
+
+[ext_resource type="Texture2D" uid="uid://doav2giyrfg6l" path="res://Fiftine/Images/Powers/shade_form_power.png" id="1_bspan"]
+
+[node name="ShadeFormNode" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="ShadeFormPower" type="Sprite2D" parent="."]
+texture = ExtResource("1_bspan")
+
+[node name="ShadeFormValue" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0

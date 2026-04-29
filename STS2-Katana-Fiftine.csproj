@@ -14,6 +14,12 @@
 	<AdditionalFiles Include="Fiftine/localization/**/*.json" />
   </ItemGroup>
   <ItemGroup>
+    <AdditionalFiles Remove=".godot\**" />
+    <Compile Remove=".godot\**" />
+    <Content Remove=".godot\**" />
+    <EmbeddedResource Remove=".godot\**" />
+  </ItemGroup>
+  <ItemGroup>
     <Compile Remove="FiftineCode\Cards\Basic\FlashDash.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -28,6 +34,7 @@
     <Content Remove="FiftineCode\Cards\Rare\BlockBack.cs" />
     <Content Remove="FiftineCode\Cards\Rare\ChronosExtracter.cs" />
     <Content Remove="FiftineCode\Cards\Rare\Conspire.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\ShadeForm.cs" />
     <Content Remove="FiftineCode\Cards\Rare\StandOff.cs" />
     <Content Remove="FiftineCode\Cards\Rare\StressResponse.cs" />
     <Content Remove="FiftineCode\Cards\Token\Bottle.cs" />
@@ -53,6 +60,7 @@
     <Content Remove="FiftineCode\Patch\DrugDependenceNodePatch.cs" />
     <Content Remove="FiftineCode\Patch\FullOfVigorNodePatch.cs" />
     <Content Remove="FiftineCode\Patch\MomentumNodePatch.cs" />
+    <Content Remove="FiftineCode\Patch\ShadeFormNodePatch.cs" />
     <Content Remove="FiftineCode\Patch\TreatmentNodePatch.cs" />
     <Content Remove="FiftineCode\Potions\FiftinePotion.cs" />
     <Content Remove="FiftineCode\Potions\VigorPotion.cs" />
@@ -61,6 +69,7 @@
     <Content Remove="FiftineCode\Powers\DrugDependencePower.cs" />
     <Content Remove="FiftineCode\Powers\FullOfVigorPower.cs" />
     <Content Remove="FiftineCode\Powers\MomentumPower.cs" />
+    <Content Remove="FiftineCode\Powers\ShadeFormPower.cs" />
     <Content Remove="FiftineCode\Powers\TreatmentPower.cs" />
     <Content Remove="FiftineCode\Relics\ShortKnife.cs" />
     <Content Remove="fiftine\localization\zhs\potions.json" />

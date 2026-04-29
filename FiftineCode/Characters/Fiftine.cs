@@ -52,8 +52,8 @@ public class Fiftine : PlaceholderCharacterModel
 		ModelDb.Card<FiftineBlock>(),
 		ModelDb.Card<FiftineBlock>(),
 		ModelDb.Card<AbruptAttack>(),
-		ModelDb.Card<TakeCare>(),
-		ModelDb.Card<FiftineBulletTime>()
+		ModelDb.Card<TakeCare>()
+		//ModelDb.Card<FiftineBulletTime>()
     ];
 
 	public override IReadOnlyList<RelicModel> StartingRelics => [ModelDb.Relic<FiftineKatana>()];
