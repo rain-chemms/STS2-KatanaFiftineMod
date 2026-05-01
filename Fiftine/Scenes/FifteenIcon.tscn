@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://c2ac6qdb6w5gq"]
+
+[ext_resource type="Texture2D" uid="uid://cus1egp2f1y7g" path="res://Fiftine/Images/Charui/character_icon_fiftine.png" id="1_kjtl7"]
+
+[node name="FifteenIcon" type="TextureRect"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 396.0
+offset_top = 95.0
+offset_right = -313.0
+offset_bottom = -115.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_kjtl7")

@@ -24,12 +24,12 @@ public class Fiftine : PlaceholderCharacterModel
     // 能量图标轮廓颜色
     public override Color EnergyLabelOutlineColor => new(255/255, 170/255, 43/255);
     //角色音效
-    //public override string CharacterSelectSfx => "res://Fiftine/Sfx/fiftine_select.ogg";
-    public override string CustomAttackSfx => "res://Fiftine/Sfx/AttackSfx.tres";
-    //public override string CustomCastSfx => "res://Fiftine/Sfx/fiftine_cast.wav";
-    //public override string CustomDeathSfx => "res://Fiftine/Sfx/fiftine_die.tscn";
+    public override string CharacterSelectSfx => "res://Fiftine/Scenes/Sfx/Select.tscn";
+    public override string CustomAttackSfx => "res://Fiftine/Scenes/Sfx/Attack.tscn";
+    public override string CustomCastSfx => "res://Fiftine/Scenes/Sfx/Cast.tscn";
+    public override string CustomDeathSfx => "res://Fiftine/Scenes/Sfx/Death.tscn";
     //过渡音效
-    public override string CharacterTransitionSfx => "event:/sfx/ui/wipe_ironclad";
+    //public override string CharacterTransitionSfx => "res://Fiftine/Scenes/Sfx/Select.tscn";
     //角色选择背景
 
     public override string CustomCharacterSelectBg => "res://Fiftine/Scenes/Char_Select/char_select_bg_fiftine.tscn";//背景场景,要自己做
@@ -67,6 +67,7 @@ public class Fiftine : PlaceholderCharacterModel
 		These are just some of the simplest assets, given some placeholders to differentiate your character with.
 		You don't have to, but you're suggested to rename these images. */
 	public override string CustomVisualPath => "res://Fiftine/Scenes/FiftineVisual.tscn";//角色视图路径
+    //public override string CustomIconPath => "res://Fiftine/Scenes/FiftineIcon.tscn";//角色图标
 	public override string CustomIconTexturePath => "character_icon_fiftine.png".CharacterUiPath();
 	public override string CustomCharacterSelectIconPath => "char_select_char_name.png".CharacterUiPath();
     public override string CustomCharacterSelectLockedIconPath => "char_select_char_name_locked.png".CharacterUiPath();

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://yy68dgp8k2dm"]
+
+[ext_resource type="AudioStream" uid="uid://bc0dk70d8rsg2" path="res://Fiftine/Audio/Select.ogg" id="1_e6n3m"]
+
+[node name="Select" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_e6n3m")

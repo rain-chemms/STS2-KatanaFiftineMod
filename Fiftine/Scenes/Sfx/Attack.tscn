@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bh8cssks6elm3"]
+
+[ext_resource type="AudioStream" uid="uid://ba28exibi0nyd" path="res://Fiftine/Audio/AttackSfx.tres" id="1_13qy1"]
+
+[node name="Attack" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_13qy1")

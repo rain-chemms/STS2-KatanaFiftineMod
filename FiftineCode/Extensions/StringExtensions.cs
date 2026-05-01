@@ -46,10 +46,6 @@ public static class StringExtensions
 	{
 		return Path.Join(MainFile.ModId, "Images", "Charui", path);
 	}
-	public static string SfxPath(this string path)
-	{
-		return Path.Join(MainFile.ModId, "Sfx", path);
-    }
 
 	public static string PotionImagePath(this string path)
 	{

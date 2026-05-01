@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://co8go5r6d1ebs"]
+
+[ext_resource type="AudioStream" uid="uid://njpn47wftdf3" path="res://Fiftine/Audio/FiftineDead.wav" id="1_l5631"]
+
+[node name="Death" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_l5631")

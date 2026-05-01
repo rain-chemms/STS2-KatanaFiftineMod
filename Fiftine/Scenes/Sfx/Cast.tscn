@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ngqju5lpmxct"]
+
+[ext_resource type="AudioStream" uid="uid://du344q2jbti0f" path="res://Fiftine/Audio/Cast.wav" id="1_neq2b"]
+
+[node name="Cast" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_neq2b")

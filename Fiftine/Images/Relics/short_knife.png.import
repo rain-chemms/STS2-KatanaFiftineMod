@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://toy8mvkw0u17"
-path="res://.godot/imported/short_knift.png-495a3c4aa149e8bb59bbbf350f75a604.ctex"
+path="res://.godot/imported/short_knife.png-2ef25951f3e912e8a4880a247b16d683.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Fiftine/Images/Relics/short_knift.png"
-dest_files=["res://.godot/imported/short_knift.png-495a3c4aa149e8bb59bbbf350f75a604.ctex"]
+source_file="res://Fiftine/Images/Relics/short_knife.png"
+dest_files=["res://.godot/imported/short_knife.png-2ef25951f3e912e8a4880a247b16d683.ctex"]
 
 [params]
 

@@ -30,6 +30,10 @@
     <Content Remove="FiftineCode\Cards\Basic\FiftineBulletTime.cs" />
     <Content Remove="FiftineCode\Cards\Basic\TakeCare.cs" />
     <Content Remove="FiftineCode\Cards\Common\BloodExtract.cs" />
+    <Content Remove="FiftineCode\Cards\Common\DrinkTea.cs" />
+    <Content Remove="FiftineCode\Cards\Common\ExperimentInjection.cs" />
+    <Content Remove="FiftineCode\Cards\Common\GoDeath.cs" />
+    <Content Remove="FiftineCode\Cards\Common\VigorDefend.cs" />
     <Content Remove="FiftineCode\Cards\Common\VigorStrike.cs" />
     <Content Remove="FiftineCode\Cards\Rare\BlockBack.cs" />
     <Content Remove="FiftineCode\Cards\Rare\ChronosExtracter.cs" />
@@ -37,6 +41,7 @@
     <Content Remove="FiftineCode\Cards\Rare\ShadeForm.cs" />
     <Content Remove="FiftineCode\Cards\Rare\StandOff.cs" />
     <Content Remove="FiftineCode\Cards\Rare\StressResponse.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\VigorEmbrace.cs" />
     <Content Remove="FiftineCode\Cards\Token\Bottle.cs" />
     <Content Remove="FiftineCode\Cards\Common\BrokenDoor.cs" />
     <Content Remove="FiftineCode\Cards\Common\FlashDash.cs" />
@@ -62,6 +67,7 @@
     <Content Remove="FiftineCode\Patch\MomentumNodePatch.cs" />
     <Content Remove="FiftineCode\Patch\ShadeFormNodePatch.cs" />
     <Content Remove="FiftineCode\Patch\TreatmentNodePatch.cs" />
+    <Content Remove="FiftineCode\Patch\VigorEmbraceNodePatch.cs" />
     <Content Remove="FiftineCode\Potions\FiftinePotion.cs" />
     <Content Remove="FiftineCode\Potions\VigorPotion.cs" />
     <Content Remove="FiftineCode\Powers\BlockBackPower.cs" />
@@ -71,6 +77,7 @@
     <Content Remove="FiftineCode\Powers\MomentumPower.cs" />
     <Content Remove="FiftineCode\Powers\ShadeFormPower.cs" />
     <Content Remove="FiftineCode\Powers\TreatmentPower.cs" />
+    <Content Remove="FiftineCode\Powers\VigorEmbracePower.cs" />
     <Content Remove="FiftineCode\Relics\ShortKnife.cs" />
     <Content Remove="fiftine\localization\zhs\potions.json" />
     <Content Remove="fiftine\localization\zhs\static_hover_tips.json" />

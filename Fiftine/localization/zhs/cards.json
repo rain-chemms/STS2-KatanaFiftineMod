@@ -62,5 +62,15 @@
   "KATANAZEROMOD-FIFTINE_BULLET_TIME.title": "子弹时间",
   "KATANAZEROMOD-FIFTINE_BULLET_TIME.description": "打出后会从弃牌堆回到手牌中\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:将你的所有手牌费用变为[gold]0[/gold]且你在这个回合[red]无法[/red]再抽牌",
   "KATANAZEROMOD-SHADE_FORM.title": "残像形态",
-  "KATANAZEROMOD-SHADE_FORM.description": "每回合获得[gold]{ShadeFormPower:diff()}[/gold]点[gold]敏捷[/gold]\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:每回合额外获得[gold]1[/gold]点[gold]敏捷[/gold]"
+  "KATANAZEROMOD-SHADE_FORM.description": "每回合获得[gold]{ShadeFormPower:diff()}[/gold]点[gold]敏捷[/gold]\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:每回合额外获得[gold]1[/gold]点[gold]敏捷[/gold]",
+  "KATANAZEROMOD-VIGOR_EMBRACE.title": "活力之拥",
+  "KATANAZEROMOD-VIGOR_EMBRACE.description": "每当你获得[gold]活力[/gold]时,抽[gold]{VigorEmbracePower:diff()}[/gold]张牌",
+  "KATANAZEROMOD-GO_DEATH.title": "去死吧",
+  "KATANAZEROMOD-GO_DEATH.description": "给予一名敌人{DemisePower:diff()}层[gold]消亡[/gold]",
+  "KATANAZEROMOD-VIGOR_DEFEND.title": "活力防御",
+  "KATANAZEROMOD-VIGOR_DEFEND.description": "获得{Block:diff()}点格挡\n获得{VigorPower:diff()}层[gold]活力[/gold]",
+  "KATANAZEROMOD-EXPERIMENT_INJECTION.title": "实验性试剂注射",
+  "KATANAZEROMOD-EXPERIMENT_INJECTION.description": "给予一名敌人{ChronosPower:diff()}层[gold]柯诺罗斯[/gold]",
+  "KATANAZEROMOD-DRINK_TEA.title": "喝花茶",
+  "KATANAZEROMOD-DRINK_TEA.description": "抽[gold]{Cards:diff()}[/gold]张牌\n丢弃[gold]{Cards:diff()}[/gold]张牌\n下个回合抽{DrawCardsNextTurnPower:diff()}张牌\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:额外产生[gold]1[/gold]次打出效果"
 }

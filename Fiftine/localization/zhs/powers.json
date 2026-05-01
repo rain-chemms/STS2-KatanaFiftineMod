@@ -25,5 +25,10 @@
 
   "KATANAZEROMOD-SHADE_FORM_POWER.description": "每回合结束时给予你[gold]1[/gold]点[gold]敏捷[/gold]",
   "KATANAZEROMOD-SHADE_FORM_POWER.smartDescription": "每回合结束时给予你[gold]{Amount}[/gold]点[gold]敏捷[/gold]",
-  "KATANAZEROMOD-SHADE_FORM_POWER.title": "残像形态"
+  "KATANAZEROMOD-SHADE_FORM_POWER.title": "残像形态",
+
+  "KATANAZEROMOD-VIGOR_EMBRACE_POWER.description": "当你获得[gold]活力[/gold]时,抽一张牌",
+  "KATANAZEROMOD-VIGOR_EMBRACE_POWER.smartDescription": "当你获得[gold]活力[/gold]时,抽[gold]{Amount}[/gold]张牌",
+  "KATANAZEROMOD-VIGOR_EMBRACE_POWER.title": "活力之拥"
+
 }

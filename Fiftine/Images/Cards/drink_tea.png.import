@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dieaaqpjq5yn7"
-path="res://.godot/imported/short_knift_outline.png-8a87b3bda994bdeec154b1f90f2f67da.ctex"
+uid="uid://cxo4b4vkvujr0"
+path="res://.godot/imported/drink_tea.png-d25b4359984ebf245b2f3ab8851f902a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Fiftine/Images/Relics/short_knift_outline.png"
-dest_files=["res://.godot/imported/short_knift_outline.png-8a87b3bda994bdeec154b1f90f2f67da.ctex"]
+source_file="res://Fiftine/Images/Cards/drink_tea.png"
+dest_files=["res://.godot/imported/drink_tea.png-d25b4359984ebf245b2f3ab8851f902a.ctex"]
 
 [params]
 
