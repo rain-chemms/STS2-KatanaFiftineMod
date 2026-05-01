@@ -72,5 +72,9 @@
   "KATANAZEROMOD-EXPERIMENT_INJECTION.title": "实验性试剂注射",
   "KATANAZEROMOD-EXPERIMENT_INJECTION.description": "给予一名敌人{ChronosPower:diff()}层[gold]柯诺罗斯[/gold]",
   "KATANAZEROMOD-DRINK_TEA.title": "喝花茶",
-  "KATANAZEROMOD-DRINK_TEA.description": "抽[gold]{Cards:diff()}[/gold]张牌\n丢弃[gold]{Cards:diff()}[/gold]张牌\n下个回合抽{DrawCardsNextTurnPower:diff()}张牌\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:额外产生[gold]1[/gold]次打出效果"
+  "KATANAZEROMOD-DRINK_TEA.description": "抽[gold]{Cards:diff()}[/gold]张牌\n丢弃[gold]{Cards:diff()}[/gold]张牌\n下个回合抽{DrawCardsNextTurnPower:diff()}张牌\n[blue]时停[/blue]{FIFTINE-TIMEHALT:diff()}\n[blue]时停[/blue]:额外产生[gold]1[/gold]次打出效果",
+  "KATANAZEROMOD-DEMISE_STRIKE.title": "消亡打击",
+  "KATANAZEROMOD-DEMISE_STRIKE.description": "造成{Damage:diff()}点伤害\n给予一名敌人{DemisePower:diff()}层[gold]消亡[/gold]",
+  "KATANAZEROMOD-SMOKE_BOMB.title": "烟雾弹",
+  "KATANAZEROMOD-SMOKE_BOMB.description": "更改一名敌人的意图"
 }

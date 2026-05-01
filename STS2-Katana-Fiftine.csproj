@@ -30,6 +30,7 @@
     <Content Remove="FiftineCode\Cards\Basic\FiftineBulletTime.cs" />
     <Content Remove="FiftineCode\Cards\Basic\TakeCare.cs" />
     <Content Remove="FiftineCode\Cards\Common\BloodExtract.cs" />
+    <Content Remove="FiftineCode\Cards\Common\DemiseStrike.cs" />
     <Content Remove="FiftineCode\Cards\Common\DrinkTea.cs" />
     <Content Remove="FiftineCode\Cards\Common\ExperimentInjection.cs" />
     <Content Remove="FiftineCode\Cards\Common\GoDeath.cs" />
@@ -56,6 +57,7 @@
     <Content Remove="FiftineCode\Cards\Uncommon\FullOfVigor.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\Momentum.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\ShoulderCut.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\SmokeBomb.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\Thinking.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\ThrowBottle.cs" />
     <Content Remove="FiftineCode\Characters\FiftinePotionPool.cs" />

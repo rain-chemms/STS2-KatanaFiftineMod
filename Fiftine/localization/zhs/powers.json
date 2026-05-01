@@ -1,6 +1,6 @@
 {
-  "KATANAZEROMOD-CHRONOS_POWER.description": "消耗[blue]{Amount}[/blue]层[gold]柯罗诺斯[/gold]触发[blue]时停[/blue]效果\n当层数[gold]大于0[/gold]时,每回合恢复[green]1[/green]点生命值\n当层数[gold]小于0[/gold]时,每回合失去[red]相应层数的[/red]点血量\n每回合开始时减少[red]1[/red]层[blue]柯诺罗斯[/blue]\n[gold]非\"空无\"士兵[/gold]在[red]未获得过[/red][blue]柯诺罗斯[/blue]前不会随回合减少层数",
-  "KATANAZEROMOD-CHRONOS_POWER.smartDescription": "消耗[blue]{Amount}[/blue]层[gold]柯罗诺斯[/gold]触发[blue]时停[/blue]效果\n当层数[gold]大于0[/gold]时,每回合恢复[green]1[/green]点生命值\n当层数[gold]小于0[/gold]时,每回合失去{Amount}点血量\n每回合开始时减少[red]1[/red]层[blue]柯诺罗斯[/blue]\n[gold]非\"空无\"士兵[/gold]在[red]未获得过[/red][blue]柯诺罗斯[/blue]前不会随回合减少层数",
+  "KATANAZEROMOD-CHRONOS_POWER.description": "消耗相应层[blue]柯罗诺斯[/blue]触发[blue]时停[/blue]效果\n当层数[gold]大于0[/gold]时,每回合恢复[green]1[/green]点生命值\n当层数[gold]小于0[/gold]时,每回合失去[red]相应层数的[/red]点血量\n在[gold]有[/gold][blue]柯诺罗斯[/blue]能力的情况下每回合开始时减少[red]1[/red]层[blue]柯诺罗斯[/blue]\n[gold]",
+  "KATANAZEROMOD-CHRONOS_POWER.smartDescription": "消耗[gold]{Amount}[/gold]层[blue]柯罗诺斯[/blue]触发[blue]时停[/blue]效果\n{{Amount}:cond:>0?每回合恢复[green]1[/green]点生命值|每回合失去{Amount}点血量}\n在[gold]有[/gold][blue]柯诺罗斯[/blue]能力的情况下每回合开始时减少[red]1[/red]层[blue]柯诺罗斯[/blue]\n[gold]",
   "KATANAZEROMOD-CHRONOS_POWER.title": "柯罗诺斯",
 
   "KATANAZEROMOD-TREATMENT_POWER.description": "在每回合开始时给予你[gold]1[/gold]层[gold]柯罗诺斯[/gold]",
