@@ -69,7 +69,7 @@ public class SmokeBomb() : FiftineCard(0,
 
     protected override void OnUpgrade()
     {
-        CanonicalKeywords.Remove(CardKeyword.Exhaust);
+        RemoveKeyword(CardKeyword.Exhaust);
     }
 }
 

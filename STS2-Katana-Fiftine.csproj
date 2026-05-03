@@ -39,6 +39,8 @@
     <Content Remove="FiftineCode\Cards\Rare\BlockBack.cs" />
     <Content Remove="FiftineCode\Cards\Rare\ChronosExtracter.cs" />
     <Content Remove="FiftineCode\Cards\Rare\Conspire.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\NotBlame.cs" />
+    <Content Remove="FiftineCode\Cards\Rare\OverDose.cs" />
     <Content Remove="FiftineCode\Cards\Rare\ShadeForm.cs" />
     <Content Remove="FiftineCode\Cards\Rare\StandOff.cs" />
     <Content Remove="FiftineCode\Cards\Rare\StressResponse.cs" />
@@ -51,8 +53,11 @@
     <Content Remove="FiftineCode\Cards\Rare\PeriodOfTreatment.cs" />
     <Content Remove="FiftineCode\Cards\Rare\Roll.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\Concentrate.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\DeathFaith.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\DisorderPierce.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\DrugDependence.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\DrugProducer.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\Elimination.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\Flash.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\FullOfVigor.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\Momentum.cs" />

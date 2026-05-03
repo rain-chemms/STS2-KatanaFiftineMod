@@ -1,13 +1,10 @@
 using BaseLib.Extensions;
 using BaseLib.Utils;
 using Godot;
-using KatanaZeroMod.Fiftine;
 using KatanaZeroMod.Fiftine.DynamicVars;
 using KatanaZeroMod.Fiftine.Powers;
 using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Entities.Cards;
-using MegaCrit.Sts2.Core.Entities.Players;
-using MegaCrit.Sts2.Core.Entities.Creatures;
 using MegaCrit.Sts2.Core.GameActions.Multiplayer;
 using MegaCrit.Sts2.Core.HoverTips;
 using MegaCrit.Sts2.Core.Localization.DynamicVars;
@@ -15,31 +12,30 @@ using MegaCrit.Sts2.Core.Models;
 using MegaCrit.Sts2.Core.Models.Powers;
 using MegaCrit.Sts2.Core.Nodes.Combat;
 using MegaCrit.Sts2.Core.ValueProps;
-using MegaCrit.Sts2.GameInfo.Objects;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-namespace KatanaZeroMod.Fiftine.Cards;
 
-public class StressResponse() : FiftineCard(1,
+namespace KatanaZeroMod.Fiftine.Cards;
+//别怪我
+public class NotBlame() : FiftineCard(3,
     CardType.Skill, CardRarity.Rare,
-    TargetType.Self)
+    TargetType.AnyEnemy)
 {
-    public override HashSet<CardKeyword> CanonicalKeywords => new HashSet<CardKeyword> {
-        CardKeyword.Exhaust
-    };
-    protected override HashSet<CardTag> CanonicalTags => [CardTag.Strike];
+    protected override HashSet<CardTag> CanonicalTags => [CardTag.None];
     protected override IEnumerable<DynamicVar> CanonicalVars => [
-        new PowerVar<RegenPower>(5),
-        new TimeHaltVar(5)
+        new PowerVar<DemisePower>(35),
+        new BlockVar(15, ValueProp.Move),
+        new TimeHaltVar(3)
     ];
 
     protected override IEnumerable<IHoverTip> ExtraHoverTips => [
-        HoverTipFactory.FromPower<ChronosPower>(),
-        HoverTipFactory.FromPower<RegenPower>()
+        HoverTipFactory.FromPower<DemisePower>(),
+        HoverTipFactory.FromPower<ChronosPower>()
     ];
 
     protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
     {
+        await CommonActions.Apply<DemisePower>(cardPlay.Target, this);
         if (DynamicVars.TryGetValue("FIFTINE-TIMEHALT", out DynamicVar fth))
         {
             int timeHaltNeedChronos = fth.IntValue;//时间效果发动所需要的柯罗诺斯层数
@@ -48,8 +44,7 @@ public class StressResponse() : FiftineCard(1,
                 int nowChronos = Owner.Creature.GetPowerAmount<ChronosPower>();
                 if (nowChronos >= timeHaltNeedChronos)
                 {
-                    //获得再生效果
-                    Owner.Creature.GetPower<ChronosPower>().SetAmount(Owner.Creature.GetPowerAmount<RegenPower>() + DynamicVars.Power<RegenPower>().IntValue);
+                    await CommonActions.CardBlock(this,cardPlay);//给予玩家格挡
                     Owner.Creature.GetPower<ChronosPower>().SetAmount(nowChronos - timeHaltNeedChronos);//扣除相应的柯罗诺斯层数
                 }
             }
@@ -58,6 +53,7 @@ public class StressResponse() : FiftineCard(1,
 
     protected override void OnUpgrade()
     {
-        RemoveKeyword(CardKeyword.Exhaust);
+        DynamicVars.Power<DemisePower>().UpgradeValueBy(15);
+        DynamicVars.Block.UpgradeValueBy(10m);
     }
 }

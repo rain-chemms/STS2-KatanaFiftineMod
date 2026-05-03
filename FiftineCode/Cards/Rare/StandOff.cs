@@ -46,7 +46,7 @@ public class StandOff() : FiftineCard(2,
 
     protected override void OnUpgrade()
     {
-        CanonicalKeywords.Remove(CardKeyword.Exhaust);
+        RemoveKeyword(CardKeyword.Exhaust);
     }
 }
 

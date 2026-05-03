@@ -54,6 +54,6 @@ public class ChronosExtracter() : FiftineCard(1,
 
     protected override void OnUpgrade()
     {
-        CanonicalKeywords.Remove(CardKeyword.Exhaust);
+        RemoveKeyword(CardKeyword.Exhaust);
     }
 }
