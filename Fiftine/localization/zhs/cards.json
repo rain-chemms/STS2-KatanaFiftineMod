@@ -90,5 +90,7 @@
   "KATANAZEROMOD-REMOTE_BOMB.title": "遥控炸弹",
   "KATANAZEROMOD-REMOTE_BOMB.description": "对所有敌人造成{Damage:diff()}点伤害\n每回合保留时伤害增加[gold]{Damage:diff()}[/gold]点",
   "KATANAZEROMOD-CREATE_BOMB.title": "制造炸弹",
-  "KATANAZEROMOD-CREATE_BOMB.description": "添加一张[gold]{IfUpgraded:show:遥控炸弹+|遥控炸弹}[/gold]到你的手牌中"
+  "KATANAZEROMOD-CREATE_BOMB.description": "添加一张[gold]{IfUpgraded:show:遥控炸弹+|遥控炸弹}[/gold]到你的手牌中",
+  "KATANAZEROMOD-VANISH.title": "消逝",
+  "KATANAZEROMOD-VANISH.description": "目标敌人每有6层[gold]消亡[/gold]抽[gold]{Cards:diff()}[/gold]张牌,获得[gold]{Energy:diff()}[/gold]点能量并获得[gold]{ChronosPower:diff()}[/gold]层[blue]柯罗诺斯[/blue]"
 }
