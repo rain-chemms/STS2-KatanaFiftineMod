@@ -21,6 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="FiftineCode\Cards\Basic\FlashDash.cs" />
+    <Compile Remove="FiftineCode\Cards\Uncommon\RemoteBomb.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="FiftineCode\Cards\Ancient\FireSuppress.cs" />
@@ -53,6 +54,7 @@
     <Content Remove="FiftineCode\Cards\Rare\PeriodOfTreatment.cs" />
     <Content Remove="FiftineCode\Cards\Rare\Roll.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\Concentrate.cs" />
+    <Content Remove="FiftineCode\Cards\Uncommon\CreateBomb.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\DeathFaith.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\DisorderPierce.cs" />
     <Content Remove="FiftineCode\Cards\Uncommon\DrugDependence.cs" />

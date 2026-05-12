@@ -86,5 +86,9 @@
   "KATANAZEROMOD-DRUG_PRODUCER.title": "药物生产",
   "KATANAZEROMOD-DRUG_PRODUCER.description": "获得[gold]X{IfUpgraded:show:+1|}[/gold]层柯诺罗斯",
   "KATANAZEROMOD-OVER_DOSE.title": "过量注射",
-  "KATANAZEROMOD-OVER_DOSE.description": "获得{ChronosPower:diff()}层[blue]柯罗诺斯[/blue]"
+  "KATANAZEROMOD-OVER_DOSE.description": "获得{ChronosPower:diff()}层[blue]柯罗诺斯[/blue]",
+  "KATANAZEROMOD-REMOTE_BOMB.title": "遥控炸弹",
+  "KATANAZEROMOD-REMOTE_BOMB.description": "对所有敌人造成{Damage:diff()}点伤害\n每回合保留时伤害增加[gold]{Damage:diff()}[/gold]点",
+  "KATANAZEROMOD-CREATE_BOMB.title": "制造炸弹",
+  "KATANAZEROMOD-CREATE_BOMB.description": "添加一张[gold]{IfUpgraded:show:遥控炸弹+|遥控炸弹}[/gold]到你的手牌中"
 }
