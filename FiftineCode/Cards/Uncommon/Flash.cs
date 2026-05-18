@@ -21,8 +21,8 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 namespace KatanaZeroMod.Fiftine.Cards;
 
-public class Flash() : FiftineCard(1,
-    CardType.Skill, CardRarity.Basic,
+public class Flash() : FiftineCard(0,
+    CardType.Skill, CardRarity.Uncommon,
     TargetType.AnyEnemy)
 {
     protected override HashSet<CardTag> CanonicalTags => [CardTag.None];

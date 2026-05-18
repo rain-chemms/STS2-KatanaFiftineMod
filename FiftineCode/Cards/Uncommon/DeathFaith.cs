@@ -33,7 +33,7 @@ public class DeathFaith() : FiftineCard(2,
     protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
     {
         await CommonActions.CardAttack(this, cardPlay.Target).Execute(choiceContext);
-        await CommonActions.Apply<DemisePower>(cardPlay.Target, this);
+        await PowerCmd.Apply<DemisePower>(base.CombatState.HittableEnemies, base.DynamicVars.Power<DemisePower>().IntValue, base.Owner.Creature, this); 
     }
 
     protected override void OnUpgrade()

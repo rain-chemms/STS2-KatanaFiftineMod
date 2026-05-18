@@ -35,7 +35,7 @@ public class RemoteBomb() : FiftineCard(3,
         await CommonActions.CardAttack(this, cardPlay.Target).Execute(choiceContext);
     }
 
-    protected override Task OnTurnEndInHand(PlayerChoiceContext choiceContext)
+    public override Task OnTurnEndInHand(PlayerChoiceContext choiceContext)
     {
         DynamicVars.Damage.UpgradeValueBy(DynamicVars.Damage.ToUInt32(null));
         return Task.CompletedTask;

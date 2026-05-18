@@ -23,7 +23,7 @@ namespace KatanaZeroMod.Fiftine.Cards;
 //消逝
 public class Vanish() : FiftineCard(1,
     CardType.Skill, CardRarity.Uncommon,
-    TargetType.Self)
+    TargetType.AnyEnemy)
 {
     protected override HashSet<CardTag> CanonicalTags => [CardTag.None];
     protected override IEnumerable<DynamicVar> CanonicalVars => [

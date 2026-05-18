@@ -35,9 +35,8 @@ public sealed class MomentumPower : FiftinePower
         return Task.CompletedTask;
     }
 
-    public override Task AfterCardPlayedLate(PlayerChoiceContext choiceContext, CardPlay cardPlay)   
+    public override async Task AfterCardPlayedLate(PlayerChoiceContext choiceContext, CardPlay cardPlay)   
     {
-        PowerCmd.Apply<VigorPower>(base.Owner, base.Amount, null, null,true);
-        return Task.CompletedTask;
+        await PowerCmd.Apply<VigorPower>(base.Owner, base.Amount,null,null);
     }
 }

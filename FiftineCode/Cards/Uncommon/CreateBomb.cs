@@ -43,7 +43,7 @@ public class CreateBomb() : FiftineCard(1,
         {
             CardCmd.Upgrade(remoteBomb);
         }
-        await CardPileCmd.AddGeneratedCardToCombat(remoteBomb, PileType.Hand, Owner);
+        await CardPileCmd.AddGeneratedCardToCombat(remoteBomb, PileType.Hand,true);
     }
 
     protected override void OnUpgrade()

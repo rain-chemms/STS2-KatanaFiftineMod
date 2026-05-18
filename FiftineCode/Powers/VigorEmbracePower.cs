@@ -27,11 +27,10 @@ public sealed class VigorEmbracePower : FiftinePower
         {
             VigorEmbraceNodePatch.GetCachedVigorEmbraceNode().GetNodeOrNull<RichTextLabel>("VigorEmbraceValue").Text = Amount.ToString();
         }
-        if (power is VigorPower && applier == Owner) 
+        if (power is VigorPower) 
         {
             CardPileCmd.Draw(null, base.Amount, base.Owner.Player);
         }
-
         return Task.CompletedTask;
     }
 }

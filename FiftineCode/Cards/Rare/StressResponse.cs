@@ -49,7 +49,7 @@ public class StressResponse() : FiftineCard(1,
                 if (nowChronos >= timeHaltNeedChronos)
                 {
                     //获得再生效果
-                    Owner.Creature.GetPower<ChronosPower>().SetAmount(Owner.Creature.GetPowerAmount<RegenPower>() + DynamicVars.Power<RegenPower>().IntValue);
+                    Owner.Creature.GetPower<RegenPower>().SetAmount(Owner.Creature.GetPowerAmount<RegenPower>() + DynamicVars.Power<RegenPower>().IntValue);
                     Owner.Creature.GetPower<ChronosPower>().SetAmount(nowChronos - timeHaltNeedChronos);//扣除相应的柯罗诺斯层数
                 }
             }

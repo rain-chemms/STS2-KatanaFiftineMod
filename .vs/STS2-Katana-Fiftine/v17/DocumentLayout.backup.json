@@ -3,16 +3,100 @@
   "WorkspaceRootPath": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\createbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\createbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\deathfaith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\deathfaith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\vanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\vanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\powers\\vigorembracepower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\powers\\vigorembracepower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\stressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\stressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftine\\localization\\zhs\\cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftine\\localization\\zhs\\cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\blockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\blockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\token\\remotebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\token\\remotebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftine\\localization\\zhs\\cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftine\\localization\\zhs\\cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\createbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\createbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\powers\\momentumpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\powers\\momentumpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\momentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\momentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\concentrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\concentrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\disorderpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\disorderpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\drugproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\drugproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\elimination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\elimination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\fullofvigor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\fullofvigor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\common\\flashdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\common\\flashdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\basic\\takecare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\basic\\takecare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\deathfaith.cs.uid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\deathfaith.cs.uid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\sts2-katana-fiftine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:sts2-katana-fiftine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\chronosextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\chronosextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\notblame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\notblame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\throwbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\token\\bottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\token\\bottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\concentrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\concentrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\token\\bottle.cs.uid||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -47,52 +123,16 @@
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\shouldercut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\momentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\momentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\fullofvigor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\fullofvigor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\elimination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\elimination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\drugproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\drugproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\drugdependence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\drugdependence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\disorderpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\disorderpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\disorderpierce.cs.uid||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\disorderpierce.cs.uid||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\deathfaith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\deathfaith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\uncommon\\battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\uncommon\\battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\vigorembrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\vigorembrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\stressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\stressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\standoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,10 +151,6 @@
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\overdose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\notblame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\notblame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\fiftinebullettime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\fiftinebullettime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -125,14 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\conspire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\conspire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\chronosextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\chronosextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\rare\\blockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\rare\\blockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\common\\walkonwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -149,10 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\common\\godeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\common\\godeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\common\\flashdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\common\\flashdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\common\\experimentinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -185,10 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\basic\\abruptattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\basic\\abruptattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\basic\\takecare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\cards\\basic\\takecare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\cards\\basic\\fiftineblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -231,10 +251,6 @@
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftine\\images\\charui\\big_energy.png.import||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\powers\\vigorembracepower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\powers\\vigorembracepower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\patch\\vigorembracenodepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\patch\\vigorembracenodepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -255,20 +271,12 @@
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\patch\\shadeformnodepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\powers\\momentumpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\powers\\momentumpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\patch\\fullofvigornodepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\patch\\fullofvigornodepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftinecode\\powers\\fullofvigorpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:fiftinecode\\powers\\fullofvigorpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\sts2-katana-fiftine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|solutionrelative:sts2-katana-fiftine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5982F53-FAC1-4BE7-98EA-BD78FBA71058}|STS2-Katana-Fiftine.csproj|d:\\project\\godot\\sts2-katanafiftinemod\\fiftine\\localization\\zhs\\potions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -302,63 +310,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 15,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateBomb.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:02:14.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "RemoteBomb.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\RemoteBomb.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Token\\RemoteBomb.cs",
               "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\RemoteBomb.cs",
               "RelativeToolTip": "FiftineCode\\Cards\\Token\\RemoteBomb.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T08:46:34.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bottle.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Token\\Bottle.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Token\\Bottle.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BlockBack.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\BlockBack.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\BlockBack.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\BlockBack.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\BlockBack.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwBgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T12:28:17.888Z",
+              "WhenOpened": "2026-04-27T07:37:24.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "cards.json",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\Fiftine\\localization\\zhs\\cards.json",
               "RelativeDocumentMoniker": "Fiftine\\localization\\zhs\\cards.json",
               "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\Fiftine\\localization\\zhs\\cards.json",
               "RelativeToolTip": "Fiftine\\localization\\zhs\\cards.json",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-01T20:56:34.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "StressResponse.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StressResponse.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\StressResponse.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StressResponse.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\StressResponse.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:33:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vanish.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Vanish.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Vanish.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Vanish.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Vanish.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:46:22.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VigorEmbracePower.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\VigorEmbracePower.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Powers\\VigorEmbracePower.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\VigorEmbracePower.cs",
+              "RelativeToolTip": "FiftineCode\\Powers\\VigorEmbracePower.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:41:06.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeathFaith.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:09:21.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBomb.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\CreateBomb.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIA5wC0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:02:14.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MomentumPower.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\MomentumPower.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Powers\\MomentumPower.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\MomentumPower.cs",
+              "RelativeToolTip": "FiftineCode\\Powers\\MomentumPower.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:58:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Momentum.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Momentum.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Momentum.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Momentum.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Momentum.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:32:49.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BattleState.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\BattleState.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\BattleState.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\BattleState.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\BattleState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:20:39.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Concentrate.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Concentrate.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Concentrate.cs",
@@ -371,78 +470,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ThrowBottle.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAA+wDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T01:09:02.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Bottle.cs.uid",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs.uid",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Token\\Bottle.cs.uid",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs.uid",
-              "RelativeToolTip": "FiftineCode\\Cards\\Token\\Bottle.cs.uid",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-29T04:39:18.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Momentum.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Momentum.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Momentum.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Momentum.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Momentum.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T06:32:49.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Roll.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Roll.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\Roll.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Roll.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\Roll.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAQwDoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T08:58:13.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "FullOfVigor.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Title": "DisorderPierce.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:55:30.223Z"
+              "WhenOpened": "2026-05-03T21:20:50.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Flash.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Flash.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Flash.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Flash.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Flash.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "DrugProducer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCMAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T06:31:14.398Z"
+              "WhenOpened": "2026-05-03T20:44:40.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -452,193 +502,92 @@
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Elimination.cs",
               "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Elimination.cs",
               "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Elimination.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwCkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T20:29:00.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ShoulderCut.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:21:22.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SmokeBomb.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T19:06:03.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Thinking.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Thinking.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Thinking.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Thinking.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Thinking.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T08:45:06.467Z"
+              "WhenOpened": "2026-05-03T20:29:00.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DrugProducer.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DrugProducer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA9wBEAAAABAAAAAAAAAA==",
+              "Title": "FullOfVigor.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\FullOfVigor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T20:44:40.622Z"
+              "WhenOpened": "2026-04-29T04:55:30.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DrugDependence.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Title": "Flash.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Flash.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Flash.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Flash.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Flash.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:20:53.659Z"
+              "WhenOpened": "2026-04-27T06:31:14.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "DisorderPierce.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "FlashDash.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\FlashDash.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\FlashDash.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\FlashDash.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Common\\FlashDash.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:20:50.649Z"
+              "WhenOpened": "2026-04-27T12:35:33.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "DisorderPierce.cs.uid",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-03T21:20:50.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BattleState.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\BattleState.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\BattleState.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\BattleState.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\BattleState.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Title": "TakeCare.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\TakeCare.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Basic\\TakeCare.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\TakeCare.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Basic\\TakeCare.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:20:39.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "StressResponse.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StressResponse.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\StressResponse.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StressResponse.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\StressResponse.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA1wDwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T06:33:58.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "StandOff.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StandOff.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\StandOff.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StandOff.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\StandOff.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAxwDAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T06:28:55.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ShadeForm.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\ShadeForm.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\ShadeForm.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\ShadeForm.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\ShadeForm.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAUwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:55:01.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "VigorEmbrace.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwBwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T08:55:02.734Z"
+              "WhenOpened": "2026-04-29T04:39:08.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DeathFaith.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DeathFaith.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwBEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T20:09:21.541Z"
+              "Title": "DeathFaith.cs.uid",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DeathFaith.cs.uid",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DeathFaith.cs.uid",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DeathFaith.cs.uid",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DeathFaith.cs.uid",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-18T18:39:41.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PeriodOfTreatment.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA1wDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T08:55:35.196Z"
+              "DocumentIndex": 20,
+              "Title": "STS2-Katana-Fiftine.csproj",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\STS2-Katana-Fiftine.csproj",
+              "RelativeDocumentMoniker": "STS2-Katana-Fiftine.csproj",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\STS2-Katana-Fiftine.csproj",
+              "RelativeToolTip": "STS2-Katana-Fiftine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T04:38:26.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "OverDose.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\OverDose.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\OverDose.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\OverDose.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\OverDose.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAywCUAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:01:24.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 23,
               "Title": "NotBlame.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\NotBlame.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\NotBlame.cs",
@@ -650,115 +599,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "FiftineBulletTime.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Roll.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Roll.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\Roll.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Roll.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\Roll.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:19:43.451Z"
+              "WhenOpened": "2026-04-29T08:58:13.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DoubleDamage.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:19:37.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Conspire.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Conspire.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\Conspire.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Conspire.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\Conspire.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T21:19:33.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "WalkOnWall.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\WalkOnWall.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\WalkOnWall.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\WalkOnWall.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Common\\WalkOnWall.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T20:54:40.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "VigorStrike.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorStrike.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\VigorStrike.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorStrike.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Common\\VigorStrike.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAywCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:16:10.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "VigorDefend.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorDefend.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\VigorDefend.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorDefend.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Common\\VigorDefend.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAawB8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:23:29.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "GoDeath.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\GoDeath.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\GoDeath.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\GoDeath.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Common\\GoDeath.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:16:03.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "FlashDash.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\FlashDash.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\FlashDash.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\FlashDash.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Common\\FlashDash.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T12:35:33.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BlockBack.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\BlockBack.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\BlockBack.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\BlockBack.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\BlockBack.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA6wBgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T07:37:24.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 22,
               "Title": "ChronosExtracter.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\ChronosExtracter.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\ChronosExtracter.cs",
@@ -770,7 +623,247 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThrowBottle.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\ThrowBottle.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA+wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T01:09:02.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Bottle.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Token\\Bottle.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Token\\Bottle.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:28:17.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bottle.cs.uid",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs.uid",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Token\\Bottle.cs.uid",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Token\\Bottle.cs.uid",
+              "RelativeToolTip": "FiftineCode\\Cards\\Token\\Bottle.cs.uid",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T04:39:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoulderCut.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\ShoulderCut.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:21:22.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SmokeBomb.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\SmokeBomb.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:06:03.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Thinking.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Thinking.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\Thinking.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\Thinking.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\Thinking.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:45:06.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DrugDependence.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DrugDependence.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:20:53.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DisorderPierce.cs.uid",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
+              "RelativeToolTip": "FiftineCode\\Cards\\Uncommon\\DisorderPierce.cs.uid",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-03T21:20:50.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StandOff.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StandOff.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\StandOff.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StandOff.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\StandOff.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:28:55.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShadeForm.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\ShadeForm.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\ShadeForm.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\ShadeForm.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\ShadeForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:55:01.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VigorEmbrace.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\VigorEmbrace.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:55:02.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PeriodOfTreatment.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\PeriodOfTreatment.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA1wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:55:35.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OverDose.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\OverDose.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\OverDose.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\OverDose.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\OverDose.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywCUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:01:24.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FiftineBulletTime.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\FiftineBulletTime.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:19:43.451Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 38,
+              "Title": "DoubleDamage.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\DoubleDamage.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:19:37.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Conspire.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Conspire.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\Conspire.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\Conspire.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Rare\\Conspire.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:19:33.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WalkOnWall.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\WalkOnWall.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\WalkOnWall.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\WalkOnWall.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Common\\WalkOnWall.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:54:40.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VigorStrike.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorStrike.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\VigorStrike.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorStrike.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Common\\VigorStrike.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T08:16:10.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VigorDefend.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorDefend.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\VigorDefend.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\VigorDefend.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Common\\VigorDefend.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T08:23:29.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GoDeath.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\GoDeath.cs",
+              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\GoDeath.cs",
+              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\GoDeath.cs",
+              "RelativeToolTip": "FiftineCode\\Cards\\Common\\GoDeath.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T08:16:03.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "ExperimentInjection.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\ExperimentInjection.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\ExperimentInjection.cs",
@@ -782,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "DrinkTea.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\DrinkTea.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\DrinkTea.cs",
@@ -794,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "DemiseStrike.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\DemiseStrike.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\DemiseStrike.cs",
@@ -806,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "BrokenDoor.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\BrokenDoor.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\BrokenDoor.cs",
@@ -818,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "BloodExtract.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\BloodExtract.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\BloodExtract.cs",
@@ -830,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "KnockUp.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Ancient\\KnockUp.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Ancient\\KnockUp.cs",
@@ -842,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "FireSuppress.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Ancient\\FireSuppress.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Ancient\\FireSuppress.cs",
@@ -854,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "AbruptAttack.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\AbruptAttack.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Basic\\AbruptAttack.cs",
@@ -866,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "FiftineAttack.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\FiftineAttack.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Basic\\FiftineAttack.cs",
@@ -878,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "FiftineBlock.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\FiftineBlock.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Basic\\FiftineBlock.cs",
@@ -890,19 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "TakeCare.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\TakeCare.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Cards\\Basic\\TakeCare.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\TakeCare.cs",
-              "RelativeToolTip": "FiftineCode\\Cards\\Basic\\TakeCare.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:39:08.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 54,
               "Title": "FiftineBlock.cs.uid",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Basic\\FiftineBlock.cs.uid",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Basic\\FiftineBlock.cs.uid",
@@ -914,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "powers.json",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\Fiftine\\localization\\zhs\\powers.json",
               "RelativeDocumentMoniker": "Fiftine\\localization\\zhs\\powers.json",
@@ -926,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "FiftineCard.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\FiftineCard.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\FiftineCard.cs",
@@ -938,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "FlashDash.cs.uid",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Common\\FlashDash.cs.uid",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Common\\FlashDash.cs.uid",
@@ -950,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 60,
               "Title": "big_energy.png",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\Fiftine\\Images\\Charui\\big_energy.png",
               "RelativeDocumentMoniker": "Fiftine\\Images\\Charui\\big_energy.png",
@@ -961,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 59,
               "Title": "character_icon_fiftine.png",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\Fiftine\\Images\\Charui\\character_icon_fiftine.png",
               "RelativeDocumentMoniker": "Fiftine\\Images\\Charui\\character_icon_fiftine.png",
@@ -972,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 61,
               "Title": "big_energy.png.import",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\Fiftine\\Images\\Charui\\big_energy.png.import",
               "RelativeDocumentMoniker": "Fiftine\\Images\\Charui\\big_energy.png.import",
@@ -984,19 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "VigorEmbracePower.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\VigorEmbracePower.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Powers\\VigorEmbracePower.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\VigorEmbracePower.cs",
-              "RelativeToolTip": "FiftineCode\\Powers\\VigorEmbracePower.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswBsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T08:41:06.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 58,
               "Title": "Fiftine.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Characters\\Fiftine.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Characters\\Fiftine.cs",
@@ -1008,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 62,
               "Title": "VigorEmbraceNodePatch.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Patch\\VigorEmbraceNodePatch.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Patch\\VigorEmbraceNodePatch.cs",
@@ -1020,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 64,
               "Title": "TreatmentPower.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\TreatmentPower.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Powers\\TreatmentPower.cs",
@@ -1032,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 63,
               "Title": "ShadeFormPower.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\ShadeFormPower.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Powers\\ShadeFormPower.cs",
@@ -1044,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 65,
               "Title": "TreatmentNodePatch.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Patch\\TreatmentNodePatch.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Patch\\TreatmentNodePatch.cs",
@@ -1056,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "FullOfVigorNodePatch.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Patch\\FullOfVigorNodePatch.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Patch\\FullOfVigorNodePatch.cs",
@@ -1068,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 66,
               "Title": "ShadeFormNodePatch.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Patch\\ShadeFormNodePatch.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Patch\\ShadeFormNodePatch.cs",
@@ -1080,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "FullOfVigorPower.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\FullOfVigorPower.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Powers\\FullOfVigorPower.cs",
@@ -1092,31 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "MomentumPower.cs",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\MomentumPower.cs",
-              "RelativeDocumentMoniker": "FiftineCode\\Powers\\MomentumPower.cs",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\MomentumPower.cs",
-              "RelativeToolTip": "FiftineCode\\Powers\\MomentumPower.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:58:05.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "STS2-Katana-Fiftine.csproj",
-              "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\STS2-Katana-Fiftine.csproj",
-              "RelativeDocumentMoniker": "STS2-Katana-Fiftine.csproj",
-              "ToolTip": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\STS2-Katana-Fiftine.csproj",
-              "RelativeToolTip": "STS2-Katana-Fiftine.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-29T04:38:26.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "potions.json",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\Fiftine\\localization\\zhs\\potions.json",
               "RelativeDocumentMoniker": "Fiftine\\localization\\zhs\\potions.json",
@@ -1128,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "ChronosNodePatch.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Patch\\ChronosNodePatch.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Patch\\ChronosNodePatch.cs",
@@ -1140,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "BlockBackNodePatch.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Patch\\BlockBackNodePatch.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Patch\\BlockBackNodePatch.cs",
@@ -1152,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "BlockBackPower.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\BlockBackPower.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Powers\\BlockBackPower.cs",
@@ -1164,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "ChronosPower.cs",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Powers\\ChronosPower.cs",
               "RelativeDocumentMoniker": "FiftineCode\\Powers\\ChronosPower.cs",
@@ -1176,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "StressResponse.cs.uid",
               "DocumentMoniker": "D:\\PROJECT\\Godot\\STS2-KatanaFiftineMod\\FiftineCode\\Cards\\Rare\\StressResponse.cs.uid",
               "RelativeDocumentMoniker": "FiftineCode\\Cards\\Rare\\StressResponse.cs.uid",
